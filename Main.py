@@ -1,22 +1,36 @@
-if 5 > 2:
-    print ("FIve is greater than 2")
+# if 5 > 2:
+#     print ("FIve is greater than 2")
 
-print("Hello"); print("How are you?"); print("Bye Bye")
-
-
-print("Hello World!", end=" ")
-print("I will print on the same line.")
+# print("Hello"); print("How are you?"); print("Bye Bye")
 
 
-print(6);
-print(358);
+# print("Hello World!", end=" ")
+# print("I will print on the same line.")
 
 
-# You can also do math inside the print() function:
+# print(6);
+# print(358);
 
-print(4+5);
 
-# You can combine text and numbers in one output by separating them with a comma:
+# # You can also do math inside the print() function:
 
-print("I am", 40, "years old")
+# print(4+5);
+
+# # You can combine text and numbers in one output by separating them with a comma:
+
+# print("I am", 40, "years old")
+
+
+
+
+# Variables ##
+
+full_name = "John Smith"
+age = 20
+is_new = True
+print(full_name)
+
+
+# Input ##
+name = input("What is your name?")
 
