@@ -20,3 +20,6 @@ print(4+5);
 
 print("I am", 40, "years old")
 
+x = 5
+y = "John"
+print(y)
