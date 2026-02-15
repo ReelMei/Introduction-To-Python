@@ -42,3 +42,6 @@ print(name + ' likes ' + color)
 x = 5
 y = "John"
 print(y)
+
+
+
