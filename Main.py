@@ -67,7 +67,20 @@ print(full_name)
 
 ## Combining Input and Type Conversion ##
 
-birth_year = input('What is your birth year? ')
-age = 2024 - int(birth_year)
-print('Your age is: ' + str(age))
+# birth_year = input('What is your birth year? ')
+# age = 2024 - int(birth_year)
+# print('Your age is: ' + str(age))
+
+
+## STRINGS METHODS 
+course = "python's course for beginers"
+print(course[1:-1])
+
+message = '''
+Hi Enzo,
+This is a reminder for our meeting tomorrow.
+Best,
+Enzo!
+'''
+print(message)
 

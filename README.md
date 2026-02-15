@@ -49,3 +49,33 @@ Rules for Python variables:
 ** Type Conversion **
 ## You can convert from one type to another with the int(), float(), and complex() methods:
 
+
+
+## STRINGS
+
+Strings in python are surrounded by either single quotation marks, or double quotation marks.
+'hello' is the same as "hello".
+You can display a string literal with the print() function:
+
+---   Multiline Strings ---
+You can assign a multiline string to a variable by using three quotes for long text to avoid line breaking!
+
+## Python - Slicing Strings
+
+--- Slicing ---
+You can return a range of characters by using the slice syntax.
+Specify the start index and the end index, separated by a colon, to return a part of the string.
+
+--- Slice From the Start ---
+By leaving out the start index, the range will start at the first character.
+
+--- Slice To the End ---
+By leaving out the end index, the range will go to the end.
+
+--- Negative Indexing ---
+Use negative indexes to start the slice from the end of the string.
+
+
+
+
+
