@@ -22,6 +22,7 @@ However, unlike text, we don't put numbers inside double quotes:
 You can combine text and numbers in one output by separating them with a comma:
 
 
+<<<<<<< Updated upstream
 # Variable Names ##
 
      A variable can have a short name (like x and y) or a more descriptive name (age, carname, total_volume).       
@@ -46,3 +47,5 @@ Rules for Python variables:
     A variable name cannot be any of the Python keywords.
 
 
+=======
+>>>>>>> Stashed changes
