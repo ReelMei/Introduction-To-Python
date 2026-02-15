@@ -45,4 +45,7 @@ Rules for Python variables:
     Variable names are case-sensitive (age, Age and AGE are three different variables)
     A variable name cannot be any of the Python keywords.
 
+## Python Type Conversion ##
+** Type Conversion **
+## You can convert from one type to another with the int(), float(), and complex() methods:
 
